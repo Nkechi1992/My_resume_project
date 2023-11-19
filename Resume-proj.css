@@ -1,0 +1,66 @@
+
+    /* Designing of the heading in blue */
+
+.header-row{font-family: Georgia, 'Times New Roman', Times, serif;
+            font-weight: 700;
+            font-size: xx-large;
+            color:blue;
+            text-transform: uppercase;}
+
+
+            /* Designing of the top heading with contact details */
+
+.Heading_Grid{
+            line-height: 30%;
+            text-align: right;
+            padding-right: 15px;
+            padding-top: 30px;
+            padding-bottom: 30px;
+            border: 2px;
+            margin-top: 4%;
+            margin-left: 16em;
+            margin-right: 4em;
+            margin-bottom: 6em;
+            background-color: red;
+            font-family: Georgia, 'Times New Roman', Times, serif;
+            font-weight: 700;
+            text-transform: uppercase;
+            color: rgb(2, 12, 21);
+            z-index: -2;}
+
+    /* Designing the initials in rounded border as logo */
+
+.my-logo{
+            text-align: center;
+            top: 6%;
+                border: 5px solid;
+            width: 2.3em;
+            height: 2.3em;
+            position: absolute;
+        /* top: 0em; */
+            left: 7%;
+            font-size: 5em;
+            border-radius: 8em;
+            color: red;
+            z-index: 3;}
+
+ /* Designing google material icons */
+
+.material-symbols-sharp{
+                font-variation-settings:
+                'FILL' 2,
+                'wght' 100,
+                'GRAD' 2,
+                'opsz' 20
+              }
+
+    /* Designing job positions */
+    
+.job-license{
+                text-transform: uppercase;
+                font-size: large;
+                font-weight: 700;
+                margin-bottom: 5%;
+                margin-top: 2%;
+    }
+              
